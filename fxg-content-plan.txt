@@ -5,3 +5,5 @@ RENCANA KONTEN FXG
   - Framework
 - Java
 - Kotlin
+- AR
+- Game Development (?)
