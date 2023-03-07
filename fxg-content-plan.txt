@@ -1,0 +1,7 @@
+RENCANA KONTEN FXG
+
+- Pemrograman WEB
+  - Native
+  - Framework
+- Java
+- Kotlin
