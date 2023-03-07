@@ -6,6 +6,9 @@ RENCANA KONTEN FXG
 - Java
 - Kotlin
 - AR
+  - Unity
+  - Vuforia
 - Game Development
   - Unity
   - Unreal Engine
+
